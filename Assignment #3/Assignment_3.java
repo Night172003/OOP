@@ -51,7 +51,7 @@ class InventoryManagement {
     }
 
     public void menu() {
-        System.out.println("Welcome to MDB Inventory Management System!");
+        System.out.println("Ryan Kyle A. Basilides, BSIT 2-2");
 
         int choice;
         do {
